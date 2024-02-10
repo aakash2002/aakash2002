@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Aakash! A fellow techy. Welcome to my page :)
-- 👀 I’m interested in Cross Platform App Development and Computer Vision
-- 🌱 I’m currently learning Flutter and Computer Vision.
+- 👀 I’m interested in Reinforcement Learning and Generative AI
+- 🌱 Probably fixing some bugs :)
 
 
 
