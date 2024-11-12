@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Vaithyanathan</h1>
 <h3 align="center">A reinforcement learning enthusiast</h3>
 
-- 🔭 I’m currently working on **projects implementing various RL algorithms**
-
-- 🌱 I’m currently learning **Intro to Reinforcement Learning by Sutton & Barto**
-
-- 👯 I’m looking to collaborate on **Reinforcement Learning projects**
+I'm interested in exploring the field of reinforcement learning and applying it to various domains in robotics. Currently, I am a research assistant part of MEDCVR Lab.
 
 - 📫 How to reach me **aakash.vaithyanathan.2002@gmail.com**
 
